@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+.converter {
+    margin: 20px auto;
+}
+
+input[type="number"] {
+    width: 100px;
+    padding: 5px;
+}
+
+select {
+    padding: 5px;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+#result {
+    
+    margin: 20px auto;
+    width: 300px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    font-weight: bold;
+}
+
+.a
+{
+    background-color:rgb(122, 198, 233);
+}
+.ashu
+{
+    width:100%;
+    height:100%;
+}
